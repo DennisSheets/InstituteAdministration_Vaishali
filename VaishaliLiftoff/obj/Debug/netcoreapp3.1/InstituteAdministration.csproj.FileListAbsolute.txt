@@ -77,16 +77,10 @@ C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debu
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\InstituteAdministration.TagHelpers.input.cache
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\InstituteAdministration.TagHelpers.output.cache
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\InstituteAdministration.RazorCoreGenerate.cache
-C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Couse\About.cshtml.g.cs
-C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Couse\Add.cshtml.g.cs
-C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Couse\AddStudent.cshtml.g.cs
-C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Couse\Index.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddStudent.cshtml.g.cs
-C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\List\Index.cshtml.g.cs
-C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\List\Student.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -102,3 +96,9 @@ C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debu
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\InstituteAdministration.dll
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\InstituteAdministration.pdb
 C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\InstituteAdministration.genruntimeconfig.cache
+C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Course\About.cshtml.g.cs
+C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Course\Add.cshtml.g.cs
+C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Course\AddStudent.cshtml.g.cs
+C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\List\Students.cshtml.g.cs
+C:\Users\User\LaunchCode-c-studentRepos\VaishaliLiftoff\VaishaliLiftoff\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs

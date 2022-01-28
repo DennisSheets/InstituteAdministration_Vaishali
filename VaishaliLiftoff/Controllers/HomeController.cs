@@ -29,7 +29,13 @@ namespace InstituteAdministration.Controllers
             return View(students);
         }
 
+        public IActionResult Privacy()
+        {
+            
 
+            //return View();
+            return View();
+        }
 
         public IActionResult AddStudent()
         {
